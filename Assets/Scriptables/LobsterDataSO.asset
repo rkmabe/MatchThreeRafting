@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 051539bfff476af44aef9ea03e8408cb, type: 3}
+  m_Name: LobsterDataSO
+  m_EditorClassIdentifier: 
+  ItemType: 3
+  Sprite: {fileID: 21300000, guid: 2f8923c1bec1385418a04da5a0968985, type: 3}
+  SpriteHeld: {fileID: 0}
+  AudioClipHeld: {fileID: 0}
+  AudioClipMatch: {fileID: 8300000, guid: 381efcd6c007b324a91d0f5d015a7bbb, type: 3}
+  Prefab: {fileID: 50745277312655176, guid: 98f3cfc736f525d4499485a90d1633c3, type: 3}
